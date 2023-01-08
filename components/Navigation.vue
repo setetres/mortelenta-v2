@@ -2,18 +2,28 @@
   <nav class="grid grid-cols-2 md:grid-cols-4 gap-y-12 uppercase">
     <div class="space-y-12">
       <div>
-        <HeadingSans>Friends</HeadingSans>
-        <ul role="list" class="mt-4 space-y-4">
+        <HeadingSans>
+          Friends
+        </HeadingSans>
+        <ul role="list" class="mt-6 space-y-3">
           <li>
-            <NavigationLink to="https://twitch.tv/Conceived_in_Fire" target="_blank">
+            <NavigationLink
+              color="hover:text-teal-500"
+              external="true"
+              id="Conceived_in_Fire"
+              to="https://twitch.tv/Conceived_in_Fire"
+            >
               Conceived_in_Fire
-              <IconArrow class="h-3 w-3 ml-2"/>
             </NavigationLink>
           </li>
           <li>
-            <NavigationLink to="https://twitch.tv/CthulhuRei" target="_blank">
+            <NavigationLink
+              color="hover:text-teal-500"
+              external="true"
+              id="CthulhuRei"
+              to="https://twitch.tv/CthulhuRei"
+            >
               CthulhuRei
-              <IconArrow class="h-3 w-3 ml-2"/>
             </NavigationLink>
           </li>
         </ul>
@@ -21,18 +31,28 @@
     </div>
     <div class="space-y-12">
       <div>
-        <HeadingSans>—</HeadingSans>
-        <ul role="list" class="mt-4 space-y-4">
+        <HeadingSans>
+          —
+        </HeadingSans>
+        <ul role="list" class="mt-6 space-y-3">
           <li>
-            <NavigationLink to="https://twitch.tv/CreepyCrappyShow" target="_blank">
+            <NavigationLink
+              color="hover:text-teal-500"
+              external="true"
+              id="CreepyCrappyShow"
+              to="https://twitch.tv/CreepyCrappyShow"
+            >
               CreepyCrappyShow
-              <IconArrow class="h-3 w-3 ml-2"/>
             </NavigationLink>
           </li>
           <li>
-            <NavigationLink to="https://twitch.tv/pedroleitin" target="_blank">
+            <NavigationLink
+              color="hover:text-teal-500"
+              external="true"
+              id="pedroleitin"
+              to="https://twitch.tv/pedroleitin"
+            >
               pedroleitin
-              <IconArrow class="h-3 w-3 ml-2"/>
             </NavigationLink>
           </li>
         </ul>
@@ -40,18 +60,28 @@
     </div>
     <div class="space-y-12">
       <div>
-        <HeadingSans>—</HeadingSans>
-        <ul role="list" class="mt-4 space-y-4">
+        <HeadingSans>
+          —
+        </HeadingSans>
+        <ul role="list" class="mt-6 space-y-3">
           <li>
-            <NavigationLink to="https://twitch.tv/naweskil" target="_blank">
+            <NavigationLink
+              color="hover:text-teal-500"
+              external="true"
+              id="naweskil"
+              to="https://twitch.tv/naweskil"
+            >
               naweskil
-              <IconArrow class="h-3 w-3 ml-2"/>
             </NavigationLink>
           </li>
           <li>
-            <NavigationLink to="https://twitch.tv/pedroturambar" target="_blank">
+            <NavigationLink
+              color="hover:text-teal-500"
+              external="true"
+              id="pedroturambar"
+              to="https://twitch.tv/pedroturambar"
+            >
               pedroturambar
-              <IconArrow class="h-3 w-3 ml-2"/>
             </NavigationLink>
           </li>
         </ul>
@@ -59,18 +89,28 @@
     </div>
     <div class="space-y-12">
       <div>
-        <HeadingSans>—</HeadingSans>
-        <ul role="list" class="mt-4 space-y-4">
+        <HeadingSans>
+          —
+        </HeadingSans>
+        <ul role="list" class="mt-6 space-y-3">
           <li>
-            <NavigationLink to="https://twitch.tv/podrivo" target="_blank">
+            <NavigationLink
+              color="hover:text-teal-500"
+              external="true"
+              id="podrivo"
+              to="https://twitch.tv/podrivo"
+            >
               podrivo
-              <IconArrow class="h-3 w-3 ml-2"/>
             </NavigationLink>
           </li>
           <li>
-            <NavigationLink to="https://www.twitch.tv/quietsurvivor" target="_blank">
+            <NavigationLink
+              color="hover:text-teal-500"
+              external="true"
+              id="quietsurvivor"
+              to="https://twitch.tv/quietsurvivor"
+            >
               quietsurvivor
-              <IconArrow class="h-3 w-3 ml-2"/>
             </NavigationLink>
           </li>
         </ul>

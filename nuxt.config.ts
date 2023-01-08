@@ -16,7 +16,7 @@ export default defineNuxtConfig({
         {
           hid: 'description',
           name: 'description',
-          content: 'Yet another streaming channel.'
+          content: 'Fellowship of the stream.'
         },
         {
           hid: 'og:type', property: 'og:type', content: 'website'
@@ -27,15 +27,15 @@ export default defineNuxtConfig({
         {
           hid: 'og:description',
           property: 'og:description',
-          content: 'Yet another streaming channel.'
+          content: 'Fellowship of the stream.'
         },
         {
           hid: 'og:image',
           property: 'og:image',
-          content: 'https://creepycrappy.show/share.png'
+          content: 'https://mortelenta.org/share.png'
         },
         {
-          hid: 'og:url', property: 'og:url', content: 'https://creepycrappy.show'
+          hid: 'og:url', property: 'og:url', content: 'https://mortelenta.org'
         },
         {
           hid: 'twitter:card',
@@ -48,12 +48,12 @@ export default defineNuxtConfig({
         {
           hid: 'twitter:description',
           name: 'twitter:description',
-          content: 'Yet another streaming channel.'
+          content: 'Fellowship of the stream.'
         },
         {
           hid: 'twitter:image',
           name: 'twitter:image',
-          content: 'https://creepycrappy.show/share.png'
+          content: 'https://mortelenta.org/share.png'
         },
       ],
       script: [
