@@ -48,7 +48,7 @@
             if (child.isMesh) child.material.map = texture
           })
 
-          object.position.y = -85
+          object.position.y = 0
           object.position.x = 0
           scene.add(object)
         }
