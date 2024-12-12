@@ -16,7 +16,7 @@ export default defineNuxtConfig({
         {
           hid: 'description',
           name: 'description',
-          content: 'Fellowship of the stream.'
+          content: 'SLOWDEATH'
         },
         {
           hid: 'og:type', property: 'og:type', content: 'website'
@@ -27,7 +27,7 @@ export default defineNuxtConfig({
         {
           hid: 'og:description',
           property: 'og:description',
-          content: 'Fellowship of the stream.'
+          content: 'SLOWDEATH'
         },
         {
           hid: 'og:image',
@@ -48,7 +48,7 @@ export default defineNuxtConfig({
         {
           hid: 'twitter:description',
           name: 'twitter:description',
-          content: 'Fellowship of the stream.'
+          content: 'SLOWDEATH'
         },
         {
           hid: 'twitter:image',
@@ -59,7 +59,7 @@ export default defineNuxtConfig({
       script: [
       ],
       link: [
-        { rel: 'icon', href: '/favicon.png' }
+        { rel: 'icon', href: '/favicon.svg' }
       ],
       style: [
       ],
